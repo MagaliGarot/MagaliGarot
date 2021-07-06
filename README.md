@@ -7,5 +7,5 @@
 ## My portfolio
 * [Portfolio](https://magaligarot.github.io/Portfolio/)
 
-<img align="left" alt="Alan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmowl" />
+<img alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliGarot" />
 
