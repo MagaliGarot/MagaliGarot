@@ -4,5 +4,5 @@
 
 
 ## My portfolio
-* [LINK](https://magaligarot.github.io/Portfolio/)
+* [Portfolio](https://magaligarot.github.io/Portfolio/)
 
