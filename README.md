@@ -7,4 +7,4 @@
 ## My portfolio
 * [Portfolio](https://magaligarot.github.io/Portfolio/)
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=magaliGarot&show_icons=true&theme=highcontrast)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=magaliGarot&show_icons=true&theme=cobalt)
