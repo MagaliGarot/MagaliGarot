@@ -7,5 +7,5 @@
 ## My portfolio
 * [Portfolio](https://magaligarot.github.io/Portfolio/)
 
-<img alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliGarot" />
+<img alt="GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magaliGarot&show_icons=true&theme=radical)" />
 
