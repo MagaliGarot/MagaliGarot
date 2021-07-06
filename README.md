@@ -9,6 +9,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magaliGarot&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magaliGarot&layout=compact&theme=cobalt) &nbsp
 ![Stats](https://github-readme-stats.vercel.app/api?username=magaliGarot&show_icons=true&theme=cobalt)
 
