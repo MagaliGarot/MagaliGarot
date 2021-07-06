@@ -12,7 +12,7 @@
 * [linkedin](https://www.linkedin.com/in/magali-garot/)
 
 ## ✉️ E-mail
-  [E-mail](mailto:magali.garot@gmail.com)
+* [E-mail](mailto:magali.garot@gmail.com)
 
 <br>
 
