@@ -8,4 +8,5 @@
 * [Portfolio](https://magaligarot.github.io/Portfolio/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=magaliGarot&show_icons=true&theme=cobalt)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magaliGarot&layout=compact&theme=cobalt)
