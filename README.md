@@ -14,6 +14,8 @@
 ## ✉️ E-mail
 * [E-mail](mailto:magali.garot@gmail.com)
 
+## 📄 CV
+* [CV](https://magaligarot.github.io/Portfolio/Images/CV-Web-developpeuse-Magali-Garot-web.pdf)
 <br>
 
 ## 😺 Github
